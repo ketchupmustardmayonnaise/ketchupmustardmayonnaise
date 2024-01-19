@@ -8,7 +8,7 @@
 ## Technique
 💻 Python, C#, C++  
 🎮 Unity, Unreal Engine  
-🖌️ Adobe Photoshop / Lightroom / Illustrator / After Effect, Maya3D
+🖌️ Adobe Photoshop / Lightroom / Illustrator / Premiere Pro, Maya3D
 
 
 [^1]: 현역단원 및 기획부장 (2022.5 - 2023.2)

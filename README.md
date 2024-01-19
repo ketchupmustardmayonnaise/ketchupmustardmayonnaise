@@ -4,7 +4,7 @@
 - 2023년 경희대학교 소프트웨어 해커톤 Khuthon 대상 수상
   
 Contact. pinkmiro@khu.ac.kr
-
+    
 
 ## Technique
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)

@@ -12,7 +12,7 @@ Contact. pinkmiro@khu.ac.kr
 ![C#](https://img.shields.io/badge/C%23-512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=white)  
 
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
-![UnrealEngine](https://img.shields.io/badge/UnrealEngine-0E1128.svg?&style=for-the-badge&logo=unrealengine&logoColor=white)  
+![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?&style=for-the-badge&logo=unrealengine&logoColor=white)  
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=black)
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?&style=for-the-badge&logo=adobelightroom&logoColor=black)

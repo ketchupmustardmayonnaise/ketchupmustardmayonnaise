@@ -6,6 +6,8 @@
 
 2023년 경희대학교 소프트웨어 해커톤 Khuthon 대상 수상
 
+
+## Technique
 Python, C#, C++  
 Unity, Unreal Engine  
 Adobe Photoshop / Lightroom / Illustrator / Premiere Pro / After Effect, Maya3D

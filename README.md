@@ -11,7 +11,7 @@
 🖌️ Adobe Photoshop / Lightroom / Illustrator / After Effect, Maya3D
 
 
-[^1]: 현역단원 및 기획부장 (2023.5 - 2023.2)
+[^1]: 현역단원 및 기획부장 (2022.5 - 2023.2)
 
 <!--
 **ketchupmustardmayonnaise/ketchupmustardmayonnaise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

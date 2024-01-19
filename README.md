@@ -10,6 +10,9 @@ Python, C#, C++
 Unity, Unreal Engine  
 Adobe Photoshop / Lightroom / Illustrator / Premiere Pro / After Effect, Maya3D
 
+
+Contact. pinkmiro@khu.ac.kr
+
 <!--
 **ketchupmustardmayonnaise/ketchupmustardmayonnaise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

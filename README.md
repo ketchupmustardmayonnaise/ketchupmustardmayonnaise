@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+경희대학교 소프트웨어융합학과 게임콘텐츠트랙
+- 경희대학교 국제캠퍼스 응원단 KHURS-LA 기획부장 (2021.4 - 2023.2)
+- 경희대학교 소프트웨어 해커톤 대상 수상
+
 <!--
 **ketchupmustardmayonnaise/ketchupmustardmayonnaise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

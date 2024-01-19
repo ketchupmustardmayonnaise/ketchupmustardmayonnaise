@@ -1,11 +1,14 @@
 ### Hi there 👋
 
 경희대학교 소프트웨어융합학과 게임콘텐츠트랙
-- 경희대학교 국제캠퍼스 응원단 KHURS-LA 기획부장 (2021.4 - 2023.2)
-- 경희대학교 소프트웨어 해커톤 대상 수상
+경희대학교 국제캠퍼스 응원단 KHURS-LA 40기
+  - 현역단원 및 기획부장 (2023.5 - 2023.2)
+2023년 경희대학교 소프트웨어 해커톤 Khuthon 대상 수상
 
 Python, C#, C++
+
 Unity, Unreal Engine
+
 Adobe Photoshop / Lightroom / Illustrator / Premiere Pro / After Effect, Maya3D
 
 <!--

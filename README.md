@@ -11,14 +11,14 @@ Contact. pinkmiro@khu.ac.kr
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=white)  
 
-![Unity](https://img.shields.io/badge/Unity%23-000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
-![UnrealEngine](https://img.shields.io/badge/UnrealEngine%23-0E1128.svg?&style=for-the-badge&logo=unrealengine&logoColor=white)  
+![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
+![UnrealEngine](https://img.shields.io/badge/UnrealEngine-0E1128.svg?&style=for-the-badge&logo=unrealengine&logoColor=white)  
 
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=for-the-badge&logo=photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?&style=for-the-badge&logo=lightroom&logoColor=black)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00.svg?&style=for-the-badge&logo=illustrator&logoColor=white)
-![PremierePro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?&style=for-the-badge&logo=premierePro&logoColor=white)
-![Maya](https://img.shields.io/badge/Maya-37A5CC.svg?&style=for-the-badge&logo=maya&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=black)
+![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?&style=for-the-badge&logo=adobelightroom&logoColor=black)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![PremierePro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?&style=for-the-badge&logo=adobepremierePro&logoColor=white)
+![Maya](https://img.shields.io/badge/Maya-37A5CC.svg?&style=for-the-badge&logo=autodeskmaya&logoColor=white)
 
 
 [^1]: 현역단원 및 기획부장 (2022.5 - 2023.2)

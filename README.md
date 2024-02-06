@@ -2,8 +2,6 @@
 - 경희대학교 소프트웨어융합학과 게임콘텐츠트랙 (2020.3 - 2024.2)
 - 경희대학교 국제캠퍼스 응원단 KHURS-LA 40기[^1] (2021.4 - 2023.2)
 - 2023년 경희대학교 소프트웨어 해커톤 Khuthon 대상 수상
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pinkmiro)](https://solved.ac/pinkmiro/)
   
 Contact. pinkmiro@khu.ac.kr
     

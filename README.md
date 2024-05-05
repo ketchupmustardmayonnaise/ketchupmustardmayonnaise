@@ -1,6 +1,6 @@
 ## 👋
 - 경희대학교 소프트웨어융합학과 게임콘텐츠트랙 (2020.3 - 2025.2)
-- 경희대학교 국제캠퍼스 응원단 KHURS-LA 40기[^1] (2021.4 - 2023.2)
+- 경희대학교 국제캠퍼스 응원단 KHURS-LA 40기 (2021.4 - 2023.2)
 - 2023년 경희대학교 소프트웨어 해커톤 Khuthon 대상 수상
   
 Contact. pinkmiro@khu.ac.kr
@@ -21,7 +21,6 @@ Contact. pinkmiro@khu.ac.kr
 ![Maya](https://img.shields.io/badge/Maya-37A5CC.svg?&style=for-the-badge&logo=autodeskmaya&logoColor=white)
 
 
-[^1]: 현역단원 및 기획부장 (2022.5 - 2023.2)
 
 <!--
 **ketchupmustardmayonnaise/ketchupmustardmayonnaise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

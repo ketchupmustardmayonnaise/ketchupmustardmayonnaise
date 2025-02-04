@@ -19,7 +19,7 @@ Contact. pinkmiro@khu.ac.kr
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=black)
 ![PremierePro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?&style=for-the-badge&logo=adobepremierePro&logoColor=black)
 ![Maya](https://img.shields.io/badge/Maya-37A5CC.svg?&style=for-the-badge&logo=autodeskmaya&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white))
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
 

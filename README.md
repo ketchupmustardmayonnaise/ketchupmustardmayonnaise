@@ -2,6 +2,7 @@
 - 경희대학교 소프트웨어융합학과 게임콘텐츠트랙 (2020.3 - 2025.2)
 - 경희대학교 국제캠퍼스 응원단 KHURS-LA 40기 (2021.4 - 2023.2)
 - 2023년 경희대학교 소프트웨어 해커톤 Khuthon 대상 수상
+- 경희대학원 Human & Interactive Technology Lab. 석사과정 (2025.2 -)
   
 Contact. pinkmiro@khu.ac.kr
     
@@ -13,6 +14,7 @@ Contact. pinkmiro@khu.ac.kr
 
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 ![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?&style=for-the-badge&logo=unrealengine&logoColor=white)  
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=black)
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?&style=for-the-badge&logo=adobelightroom&logoColor=black)

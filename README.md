@@ -1,9 +1,10 @@
 ## 👋
-I'm interested in **Game**, **Design** and **Human-Computer Interaction** (Virtual Reality, Augmented Reality)
+I'm interested in **Game**, **Design**, **Human-Computer Interaction** and **Extended Reality** (Virtual Reality, Augmented Reality)
 
 - 경희대학교 소프트웨어융합학과 게임콘텐츠트랙 (2020.3 - 2025.2)
 - 경희대학교 국제캠퍼스 응원단 KHURS-LA 40기 (2021.4 - 2023.2)
 - 2023년 경희대학교 소프트웨어 해커톤 Khuthon 대상 수상
+- 2025 한국전자통신연구원 동계 연구연수 (2025.1 - 2025.2)
 - 경희대학원 Human & Interactive Technology Lab. 석사과정 (2025.2 -)
   
 Contact. pinkmiro@khu.ac.kr

@@ -5,6 +5,7 @@ I'm interested in **Game**, **Design**, **Human-Computer Interaction** and **Ext
 - Grand Prize at Kyunghee University Software Hackathon (2023.11)
 - Winter Research Internship in Electronics and Telecommunications Research Institute (ETRI) (2025.1 - 2025.2)
 - The Master Student of Interactive TEchnology & Methodology Lab. (2025.2 -)
+- Student Volunteer of ACM CHI 2025
   
 Contact. pinkmiro@khu.ac.kr
     
